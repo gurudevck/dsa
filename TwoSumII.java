@@ -1,4 +1,4 @@
-//leetcode 167
+//leetcode #167
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int left=0;
